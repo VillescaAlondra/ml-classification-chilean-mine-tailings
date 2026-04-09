@@ -1,4 +1,4 @@
-# 🏔️ ML Classification of Chilean Mine Tailings
+# ML Classification of Chilean Mine Tailings
 
 **Clasificación de Depósitos de Relaves Mineros en Chile mediante Machine Learning**
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 📄 Overview | Resumen
+## Overview | Resumen
 
 **EN:** This project applies a hybrid unsupervised + supervised machine learning pipeline to classify Chilean mine tailings deposits based on their geochemical signatures. Using publicly available data from SERNAGEOMIN (~2,000 samples, 57 geochemical variables), the methodology groups deposits into geologically interpretable clusters and trains classifiers to predict deposit types — addressing an extreme class imbalance ratio of 237:1.
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Methodology | Metodología
+## Methodology | Metodología
 
 ### Pipeline
 
@@ -71,7 +71,7 @@ Raw Geochemical Data (SERNAGEOMIN)
 
 ---
 
-## 📊 Key Results | Resultados Principales
+## Key Results | Resultados Principales
 
 ### Classification Performance (Balanced Accuracy)
 
@@ -97,7 +97,7 @@ Raw Geochemical Data (SERNAGEOMIN)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.8+
 - **ML & Data:**
@@ -110,7 +110,7 @@ Raw Geochemical Data (SERNAGEOMIN)
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 ├── notebooks/
@@ -129,7 +129,7 @@ Raw Geochemical Data (SERNAGEOMIN)
 
 ---
 
-## 🚀 Getting Started | Cómo Empezar
+## Getting Started | Cómo Empezar
 
 ### Prerequisites | Requisitos
 
@@ -162,13 +162,12 @@ Geochemical data from **SERNAGEOMIN** (Servicio Nacional de Geología y Minería
 
 ---
 
-## 👥 Authors | Autores
+## Author | Autor
 
-- **Guillermo** — Mining Engineering + Data Science
-- **Alondra Villesca** — Primary author
+  **Alondra Villesca** Mining Engineering & Data Science
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
